@@ -17,12 +17,8 @@ iSolutions is a revolutionary eye care application designed to empower users wit
 
 ## Deployment
 
-- **Frontend:** The frontend of iSolutions is deployed on Vercel. You can access the app using the following link: [iSolutions Frontend](https://iSolutions-dw61jxx57-isurux98s-projects.vercel.app/)
-
-- **Backend:** The backend of iSolutions is deployed on Render. You can interact with the backend services using this link: [iSolutions Backend](https://iSolutions.onrender.com)
-
-- **Backend repo:** Visit the backend git repository - [iSolutions Backend Repo](https://github.com/IsuruX98/iSolutions-API)
-
+- **Frontend:** Hosted on Vercel for fast and reliable performance.
+- **Backend:**  Deployed on Render to ensure seamless functionality.
 - **Image Storage:** Images used in iSolutions are stored securely in Cloudinary, ensuring fast loading times and high-quality visuals.
 
 ## Contributors
@@ -34,4 +30,5 @@ iSolutions is the result of collaborative efforts from a team of passionate indi
 3. **Umesha Dilshani** - Creator of infant eye care section
 4. **Yasiru Deshan** - Creator of the far-sighted test and the near-sighted test
 
-
+## Contact
+  For enquires,collaboration, or support reach out to snehakohli01@gmail.com
